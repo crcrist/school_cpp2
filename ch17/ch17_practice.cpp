@@ -1,10 +1,4 @@
-/*
- * connor crist
- * intro to CS II
- * 2025-07-08
- * David Stafford
- * pointer arithmetic - array of 15 elements
- */
+// chapter 17
 #include "../connor.h"
 #include <iostream>
 #include <memory>
