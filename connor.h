@@ -14,9 +14,12 @@
  * create header file
  */
 
+#include <algorithm>
 #include <fstream>
 #include <ios>
 #include <iostream>
+#include <list>
+#include <map>
 #include <string>
 #include <vector>
 
